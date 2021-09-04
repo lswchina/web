@@ -1,0 +1,5 @@
+site_name: VITAS
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Results: result.md
