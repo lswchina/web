@@ -1,5 +1,5 @@
 site_name: Vitas
-site_url: https://github.com/VITAS000/tool/
+site_url: https://vitas000.github.io/tool/
 nav:
     - Home: index.md
     - Results: result.md
