@@ -1,5 +1,5 @@
 site_name: Vitas
-site_url: https://example.com/
+site_url: https://github.com/VITAS000/tool/
 nav:
     - Home: index.md
     - Results: result.md
