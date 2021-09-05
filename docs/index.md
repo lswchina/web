@@ -4,6 +4,6 @@ Vitas is a model-based framework to handle VUI testing of VPA apps. Vitas intera
 
 ## Download
 
-* [VITAS](/tool/VITAS.zip)
-* [cases](/cases/skill_dataset.zip)
-* [outputs](/outputs/output.zip)
+* [VITAS](tool/VITAS.zip)
+* [cases](cases/skill_dataset.zip)
+* [outputs](outputs/output.zip)
