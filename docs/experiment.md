@@ -1,5 +1,6 @@
 # Experiments
 
+* Download [experiment](tool/experiment.zip) to do experiment.
 * The four directories ```random```, ```skillExplorer```, ```user```, ```vitas``` show the communication logs obtained by random testing, SkillExplorer, manually testing and Vitas respectively. 
 * ```experiment.py``` contains the scripts to get figure 5 to figure 9 in paper.
 * Excel files save the raw data of figure 5 to figure 9 in paper.
