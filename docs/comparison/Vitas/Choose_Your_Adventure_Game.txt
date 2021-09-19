@@ -30,7 +30,7 @@ As you travel through the woods your path is blocked by a tree, do you A, try to
 Reboot
 As you travel through the woods your path is blocked by a tree, do you A, try to move the tree, or B, go around.
 Stop
-Come back tomorrow to play the experience again. Just say, Alexa, open Choose Your Adventure Game  to open the skill again.
+Come back tomorrow to play the experience again.
 What's the time
 <--skill exit-->The time is 303 PM.
 
@@ -60,7 +60,7 @@ Welcome to Choose Your Adventure Game.Say Begin, to BeginSay Stop to Stop the Pr
 to BeginSay Stop
 Please Select a Class,You have the option ofWarrior,Mage,orHealer.
 Stop
-Come back tomorrow to play the experience again. Just say, Alexa, open Choose Your Adventure Game  to open the skill again.
+Come back tomorrow to play the experience again.
 What's the time
 <--skill exit-->It's 308 PM.
 

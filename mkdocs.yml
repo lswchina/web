@@ -1,5 +1,6 @@
 site_name: Vitas
-site_url: https://vitas000.github.io/tool/
 nav:
     - Home: index.md
-    - Results: result.md
+    - Experiment: experiment.md
+    - Comparison: coverage.md
+    - Case Study: case.md
