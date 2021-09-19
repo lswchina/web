@@ -1,7 +1,7 @@
 # Case Study
 Some typical skills from the benchmark are selected for the case study. 
 
-### Case 1
+## Case 1
 
 ​	**User**: *alexa open fortnite skin picker*
 
@@ -21,7 +21,7 @@ Some typical skills from the benchmark are selected for the case study.
 
 Case 1 shows a skill with expected exit. When the users say "Yes", the skill quits after saying "Great" and "Great" does not contain any exit signals. Alexa responds to the users' next input, which indicates the skill's exit.
 
-### Case 2
+## Case 2
 
 ​	**User**: *alexa open ten pin bowling*
 
@@ -37,7 +37,7 @@ Case 1 shows a skill with expected exit. When the users say "Yes", the skill qui
 
 The skill in Case 2 asks about the user's name without the user's consent. 
 
-### Case 3
+## Case 3
 
 ​	**User**: *alexa open magnificent facts*
 
@@ -53,7 +53,7 @@ The skill in Case 2 asks about the user's name without the user's consent.
 
 The skill of case 3 cannot exit normally. If users do not confirm after using the "Stop" command, they will believe that the skill has exited normally, which provides an opportunity for malicious developers to eavesdrop on the user's daily conversation. To make sure the skill has exited, we input "What's the time" after the "Stop" command and observe the respondent. If the skill quits, the respondent should be Alexa. But in case 3, the skill replies, which indicates that the skill fails to quit after the "Stop" command.
 
-### Case 4
+## Case 4
 
 ​	**User**: *alexa open ha ha burns*
 
@@ -63,7 +63,7 @@ The skill of case 3 cannot exit normally. If users do not confirm after using th
 
 Case 4 shows an unexpected skill started. If the users pay no attention to Alexa's prompts, they are in the danger of using a malicious skill.
 
-### Case 5
+## Case 5
 
 ​	**User**: *alexa open freedom festival*
 
