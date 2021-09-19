@@ -6,9 +6,9 @@ Player 1 you can say things like top left,bottom middleor center right. Saying c
 center will put the mark right inthe middle
 I could not add a mark where you specified. Try somewhere else.
 O
-Alright, Player 1 where would  you like to place your mark.
+I could not add a mark where you specified. Try somewhere else.
 let
-Alright, Player 1 where would  you like to place your mark.
+I could not add a mark where you specified. Try somewhere else.
 top left , bottom middleor center right
 I could not add a mark where you specified. Try somewhere else.
 , bottom middleor center
@@ -16,19 +16,11 @@ I could not add a mark where you specified. Try somewhere else.
 center will put the mark right inthe middle
 I could not add a mark where you specified. Try somewhere else.
 O
-Alright, Player 1 where would  you like to place your mark.
+I could not add a mark where you specified. Try somewhere else.
 top left , bottom middleor center right
 I could not add a mark where you specified. Try somewhere else.
 O
-Alright, Player 1 where would  you like to place your mark.
-let
-Alright, Player 1 where would  you like to place your mark.
-, bottom middleor center
 I could not add a mark where you specified. Try somewhere else.
-center will put the mark right inthe middle
-I could not add a mark where you specified. Try somewhere else.
-O
-Alright, Player 1 where would  you like to place your mark.
 top left , bottom middleor center right
 I could not add a mark where you specified. Try somewhere else.
 , bottom middleor center
@@ -38,7 +30,7 @@ Alright, Player 1 where would  you like to place your mark.
 center will put the mark right inthe middle
 I could not add a mark where you specified. Try somewhere else.
 O
-Alright, Player 1 where would  you like to place your mark.
+I could not add a mark where you specified. Try somewhere else.
 top left , bottom middleor center right
 I could not add a mark where you specified. Try somewhere else.
 let
@@ -48,29 +40,15 @@ I could not add a mark where you specified. Try somewhere else.
 center will put the mark right inthe middle
 I could not add a mark where you specified. Try somewhere else.
 O
-Alright, Player 1 where would  you like to place your mark.
+I could not add a mark where you specified. Try somewhere else.
 top left , bottom middleor center right
 I could not add a mark where you specified. Try somewhere else.
-O
-Alright, Player 1 where would  you like to place your mark.
-let
-Alright, Player 1 where would  you like to place your mark.
 , bottom middleor center
 I could not add a mark where you specified. Try somewhere else.
 top left , bottom middleor center right
 I could not add a mark where you specified. Try somewhere else.
 center will put the mark right inthe middle
 I could not add a mark where you specified. Try somewhere else.
-Pause
-Alright, Player 1 where would  you like to place your mark.
-Pause
-Alright, Player 1 where would  you like to place your mark.
-Resume
-Alright, Player 1 where would  you like to place your mark.
-Restart
-The game has reset. Player 1 are you ready to play.
-Pause
-Alright, Player 1 where would  you like to place your mark.
 Restart
 The game has reset. Player 1 are you ready to play.
 Stop
