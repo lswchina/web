@@ -1,0 +1,4 @@
+round 1:
+alexa open stock info
+<--skill exit-->.
+
